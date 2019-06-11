@@ -1,0 +1,14 @@
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\bin\Debug\netcoreapp2.1\TodoGraphql.deps.json
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\bin\Debug\netcoreapp2.1\TodoGraphql.runtimeconfig.json
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\bin\Debug\netcoreapp2.1\TodoGraphql.runtimeconfig.dev.json
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\bin\Debug\netcoreapp2.1\TodoGraphql.dll
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.csprojAssemblyReference.cache
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.csproj.CoreCompileInputs.cache
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.RazorAssemblyInfo.cache
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.RazorAssemblyInfo.cs
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.AssemblyInfoInputs.cache
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.AssemblyInfo.cs
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.RazorTargetAssemblyInfo.cache
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\bin\Debug\netcoreapp2.1\TodoGraphql.pdb
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.dll
+C:\Users\anes\source\repos\TodoGraphql\TodoGraphql\obj\Debug\netcoreapp2.1\TodoGraphql.pdb
